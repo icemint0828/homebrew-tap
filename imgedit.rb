@@ -1,9 +1,9 @@
-HOMEBREW_CLI_VERSION='1.3.0'
+HOMEBREW_CLI_VERSION='1.4.0'
 class Imgedit < Formula
-  desc ""
+  desc "imgedit is a package that performs image processing such as resizing and trimming."
   homepage "https://github.com/icemint0828/imgedit"
   url "https://github.com/icemint0828/imgedit/releases/download/v#{HOMEBREW_CLI_VERSION}/imgedit_MacOS.zip"
-  sha256 "944e86dde914c09f7e92572aeb8373c15dacb655f3e1f3f76e8f6ec74c39ac86"
+  sha256 "efe27b8a71e934c08dfb11212195a115c83080c6c45cd87d5f52d6107715d22b"
   license "MIT"
   version "v#{HOMEBREW_CLI_VERSION}"
 
